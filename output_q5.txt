@@ -1,0 +1,167 @@
+9 fit well 
+	 sentiment: 55/100	it fit well on my curvierathletic frame 
+		*** (117) fit well curvierathletic frame***
+	 sentiment: 70/100	i usually wear a in pants but the large fit well 
+		*** (268) usually but large fit well***
+	 sentiment: 55/100	i usually wear an and i purchased a medium and they fit well 
+		*** (446) usually purchase medium fit well***
+	 sentiment: 25/100	my measurements are b and i was shocked how well this fits in a regular 
+		*** (38) measurement shock well fit regular***
+	 sentiment: 77/100	the small fit me well hanging straight as pictured not too snug or uncomfortable 
+		*** (262) small fit well hang straight picture not snug uncomfortable***
+	 sentiment: 55/100	it fit me well everywhere except in the crotch where i was given a slight wedgie 
+		*** (335) fit well everywhere except crotch slight wedgie***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+	 sentiment: 89/100	nice quality is great fits very well at waste i am lb bought size p and its good 
+		*** (372) nice quality great fit well waste buy size good***
+	 sentiment: 22/100	fit so well and unique pattern at the ankle however as is the case with many white pants so disappointed when i tried them on at home and could see my underwear nude color 
+		*** (424) fit well unique pattern ankle however case many white disappoint try home see underwear nude color***
+7 regular size 
+	 sentiment: 0/100	i do think they run a bit small in the waist because they were a bit too tight in my regular size 
+		*** (204) think run bite small waist bite tight regular size***
+	 sentiment: 0/100	i tried this in sizes regular petite and regular 
+		*** (306) try size regular petite regular***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+	 sentiment: 0/100	i prefer the regular size for elevenses pants because the 
+		*** (371) prefer regular size eleven***
+	 sentiment: 0/100	i tried the size regular in store 
+		*** (377) try size regular store***
+	 sentiment: 0/100	i usually order petite but tried on regular size in the store 
+		*** (498) usually petite but try regular size store***
+	 sentiment: -15/100	my regular size crushed my girls flattening them and pushing them up over the top of the jumpsuit 
+		*** (538) regular size crush girl flatten push jumpsuit***
+4 perfect fit 
+	 sentiment: 87/100	this is a perfect fit for my body shape and when on it looks like a lovely dress 
+		*** (92) perfect fit body shape lovely***
+	 sentiment: 73/100	im and a bit busty and the medium fit perfect 
+		*** (128) bite busty medium fit perfect***
+	 sentiment: 88/100	these fit perfect and look great 
+		*** (244) fit perfect great***
+	 sentiment: 73/100	bought the petite and the fit is perfect 
+		*** (361) buy petite fit perfect***
+4 hip waist 
+	 sentiment: 0/100	i typically wear a medium pounds b waist hip 
+		*** (73) typically medium pound waist hip***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+4 size petite 
+	 sentiment: -22/100	i often order petite pants and they work but for this item the crotch was too high for me to wear a petite size and the legs were short enough to look awkward 
+		*** (307) often petite work but item crotch high petite size leg short enough awkward***
+	 sentiment: 20/100	i got the size not petite cut they were sold out 
+		*** (24) get size not petite cut sell***
+	 sentiment: 0/100	the size small was still too large so i ordered a size small petite 
+		*** (161) size small still large size small petite***
+	 sentiment: 0/100	i tried this in sizes regular petite and regular 
+		*** (306) try size regular petite regular***
+3 size fit 
+	 sentiment: 85/100	they are true to the manufacturers sizing i own another pair of pants from elevenses in the same size which runs somewhat large im tall weigh pounds and the size fit perfectly 
+		*** (432) true manufacturer size another pair eleven size run somewhat large tall weigh pound size fit perfectly***
+	 sentiment: 54/100	true to size and fit not only that the fabric is very soft and good quality very interesting style of the jumpsuit looks much better in person 
+		*** (17) true size fit not fabric soft good quality interest style jumpsuit much good person***
+	 sentiment: 55/100	size regular fit me well on the waist and hips im waist hips 
+		*** (369) size regular fit well waist hip waist hip***
+3 perfect length 
+	 sentiment: 57/100	perfect length a 
+		*** (39) perfect length***
+	 sentiment: 81/100	perfect i am the length is perfect i can wear it with flat 
+		*** (225) perfect length perfect flat***
+	 sentiment: 57/100	i am and the length is perfect to wear with heels 
+		*** (231) length perfect heel***
+3 super comfy 
+	 sentiment: 91/100	super comfy super soft super comfy pants 
+		*** (296) super comfy super soft super comfy***
+	 sentiment: 91/100	super comfy super soft super comfy pants 
+		*** (296) super comfy super soft super comfy***
+	 sentiment: 91/100	super comfy super soft super comfy pants 
+		*** (296) super comfy super soft super comfy***
+2 type body 
+	 sentiment: 27/100	i have a high waist and hourglass shape so jumpers are very hard to find that fit my body type 
+		*** (91) high waist hourglass shape jumper hard find fit body type***
+	 sentiment: 76/100	wonderful fit and flatters any body type 
+		*** (97) wonderful fit flatter body type***
+2 quality issue 
+	 sentiment: 54/100	loved but both in my store had quality issues i really wanted this 
+		*** (76) love but store quality issue really want***
+	 sentiment: 64/100	i dont want to pay shipping for one that hopefully isnt damaged in the last year ive had multiple quality control issues with retailer 
+		*** (79) want pay ship one hopefully isnt damage last year multiple quality control issue retailer***
+2 jumpsuit love 
+	 sentiment: 93/100	love i love this jumpsuit and definitely feel too confident in it 
+		*** (69) love love jumpsuit definitely feel confident***
+	 sentiment: 63/100	i loved this jumpsuit 
+		*** (116) love jumpsuit***
+2 gateway jumpsuit 
+	 sentiment: 0/100	the gateway jumpsuit im calling this the gateway jumpsuit for all those ladies who are wondering about this whole jumpsuit trend and how they feel about ityou know who you are 
+		*** (541) gateway jumpsuit call gateway jumpsuit lady wonder whole jumpsuit trend feel ityou know***
+	 sentiment: 0/100	the gateway jumpsuit im calling this the gateway jumpsuit for all those ladies who are wondering about this whole jumpsuit trend and how they feel about ityou know who you are 
+		*** (541) gateway jumpsuit call gateway jumpsuit lady wonder whole jumpsuit trend feel ityou know***
+2 side pocket 
+	 sentiment: 63/100	and the best park it has side pockets 
+		*** (502) best park side pocket***
+	 sentiment: 44/100	pockets on side are also useful yet discreet 
+		*** (509) pocket side useful yet discreet***
+2 fit flatter 
+	 sentiment: 70/100	the stripes are brighter and the fit more flattering 
+		*** (5) strip bright fit flatter***
+	 sentiment: 76/100	wonderful fit and flatters any body type 
+		*** (97) wonderful fit flatter body type***
+2 piece clothe 
+	 sentiment: 44/100	i have traveling plans this summer and i am thinking this could be an easy thing to take along with me one piece clothing that will travel very we 
+		*** (492) travel plan summer think easy thing take along one piece clothe travel***
+	 sentiment: 91/100	i really dont like wearing one piece clothing but this one its just so comfy and it looks great i wear it with the straps or strapless and it looks different as you can wear it classy or casual 
+		*** (501) really one piece clothe but one comfy great strap strapless different classy casual***
+2 style love 
+	 sentiment: 70/100	love style great fit but so long 
+		*** (455) love style great fit but long***
+	 sentiment: 63/100	needs some work i love the style and color of this jumpsuit 
+		*** (343) need work love style color jumpsuit***
+2 comfort style 
+	 sentiment: 79/100	i definitely recommend these for anyone who wants both comfort and style 
+		*** (417) definitely recommend anyone want comfort style***
+	 sentiment: 73/100	very happy with the style and comfort of this jumpsuit 
+		*** (508) happy style comfort jumpsuit***
+2 spring summer 
+	 sentiment: 0/100	will be able to wear these in the spring summer and into fall 
+		*** (360) able spring summer fall***
+	 sentiment: -32/100	these arent super thick or anything so i think theyll do just fine during the spring and summer months when i just need a pair of pants to put on really quick or just to lounge around in 
+		*** (409) arent super thick anything think theyll fine spring summer month need pair put really quick lounge***
+2 tie way 
+	 sentiment: 0/100	there were strings hanging out of the lacy areas and the waist tie ties way higher than 
+		*** (325) string hang lacy area waist tie tie way high***
+	 sentiment: 0/100	there were strings hanging out of the lacy areas and the waist tie ties way higher than 
+		*** (325) string hang lacy area waist tie tie way high***
+2 side zip 
+	 sentiment: -40/100	the only problem was they are a side zip pant which i didnt know when ordering 
+		*** (236) problem side zip didnt know***
+	 sentiment: 15/100	the fabric is thick but not bulky the side zip is flattering and the buttons add a touch of flair which make the pants look very tailored 
+		*** (368) fabric thick but not bulky side zip flatter button add touch flair make tailor***
+2 need belt 
+	 sentiment: 61/100	lovely feminine needs belt for definition id been eyeing this for months loving the look but afraid itd be too young for me im 
+		*** (175) lovely feminine need belt definition eye month love but afraid itd young***
+	 sentiment: 63/100	i tried it on in the store and loved it with one caveat it hangs rather like a sack so i think it needs a belt for waist definition 
+		*** (176) try store love one caveat hang rather sack think need belt waist definition***
+2 jumpsuit fit 
+	 sentiment: 0/100	as soon as i read the reviews i went on and placed an order for size im ft tall lb and it has been very difficult to find a jumpsuit to fit my long torso 
+		*** (15) soon read review place size tall difficult find jumpsuit fit long torso***
+	 sentiment: 55/100	i seldom find jumpsuits that fit my frame but his one fits perfectly 
+		*** (65) seldom find jumpsuit fit frame but one fit perfectly***
+2 tall person 
+	 sentiment: 87/100	very nice just as pictured this is a very nice jumpsuit reviewers were correct stating that torso is long fit better a taller person 
+		*** (14) nice picture nice jumpsuit reviewer correct state torso long fit good tall person***
+	 sentiment: 0/100	maybe on a tall person im only 
+		*** (122) maybe tall person***
+2 deal breaker 
+	 sentiment: 0/100	this was a deal breaker for me 
+		*** (120) deal breaker***
+	 sentiment: 0/100	the rise was a bit short but not a deal breaker however they were very long and i hoped that i had shoes that were high enough 
+		*** (381) rise bite short but not deal breaker however long hop shoe high enough***
+2 cute person 
+	 sentiment: 45/100	so much cuter in person 
+		*** (1) much cute person***
+	 sentiment: 45/100	cuter in person 
+		*** (3) cute person***
